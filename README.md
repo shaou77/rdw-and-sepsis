@@ -9,15 +9,25 @@ Follow these steps.
 
 ### 2. run the sql code in the eicu github respiratory:(https://github.com/mit-lcp/eicu-code)
 \i ../eicu-code/concepts/pivoted/pivoted-bg.sql
+
 \i ../eicu-code/concepts/pivoted/pivoted-infusion.sql
+
 \i ../eicu-code/concepts/pivoted/pivoted-lab.sql
+
 \i ../eicu-code/concepts/pivoted/pivoted-med.sql
+
 \i ../eicu-code/concepts/pivoted/pivoted-o2.sql
+
 \i ../eicu-code/concepts/pivoted/pivoted-score.sql
+
 \i ../eicu-code/concepts/pivoted/pivoted-treatment-vasopressor.sql
+
 \i ../eicu-code/concepts/pivoted/pivoted-uo.sql
+
 \i ../eicu-code/concepts/pivoted/pivoted-vital-other.sql
+
 \i ../eicu-code/concepts/pivoted/pivoted-vital.sql
+
 \i ../eicu-code/concepts/neuroblock.sql
 
 ### 3.run the cohort sql code(https://github.com/alistairewj/mechanical-power/blob/master/eicu/cohort.sql)
