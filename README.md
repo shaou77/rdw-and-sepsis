@@ -28,3 +28,8 @@ Follow these steps.
 
 ### 6.run the select_cohort.sql to get the cohort fufilled the criteria.
 
+### 7.then you get the cohort data file, I name it by 'sepsis.csv'
+
+### 8.statistic analyze it with R.R in R software(I used 3.6.1)
+
+### Finish 
